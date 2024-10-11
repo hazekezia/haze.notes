@@ -2,7 +2,7 @@
 
 ## Welcome
 
-* [About](README.md)
+* [🙍‍♂️ About](README.md)
 
 ## Python
 

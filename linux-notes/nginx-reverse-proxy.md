@@ -1,5 +1,6 @@
 ---
 description: This tutorial about using NGINX reverse proxy.
+icon: linux
 ---
 
 # NGINX: Reverse Proxy

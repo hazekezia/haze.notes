@@ -1,5 +1,6 @@
 ---
 description: This notes for connect android using ADB using wireless connection
+icon: android
 ---
 
 # ADB: Connect over TCP/IP
@@ -12,7 +13,9 @@ On your Android device (assuming you have already enabled developer options)
 4. Enable USB Debugging and Wireless Debugging
 5. Select Wireless Debugging
 6. Select Pair device using a pairing code
-7. Note the IP address and the port On your computer (assuming you have installed adb and have it on the path)
+7. Note the IP address and the port
+
+On your computer (assuming you have installed adb and have it on the path)
 
 Go to your command line app, run&#x20;
 

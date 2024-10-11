@@ -1,3 +1,7 @@
+---
+icon: server
+---
+
 # MySQL: Basic CRUD Command
 
 These are the essential CRUD commands for MySQL.
@@ -80,3 +84,5 @@ Delete all data from the table (use with caution!)
 ```sql
 DELETE FROM users;
 ```
+
+Check this python code for [automation](../python/mysql-automation.md) using python

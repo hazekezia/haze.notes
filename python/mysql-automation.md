@@ -2,6 +2,7 @@
 description: >-
   Here’s a basic guide for automating MySQL operations using Python with the
   mysql-connector-python library.
+icon: python
 ---
 
 # MySQL: Automation

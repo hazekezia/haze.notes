@@ -1,3 +1,7 @@
+---
+icon: python
+---
+
 # Create Environment
 
 Run this command to create .env
