@@ -1,6 +1,6 @@
 ---
-description: This notes for connect android using ADB using wireless connection
 icon: android
+description: This notes for connect android using ADB using wireless connection
 ---
 
 # ADB: Connect over TCP/IP
@@ -30,14 +30,3 @@ adb connect ip:port
 ```
 
 ***
-
-**Troubleshoot:**
-
-**Mouse and keyboard do not work**
-
-On some devices, you may need to enable an option to allow simulating input. In developer options, enable:
-
-**USB debugging (Security settings)**\
-**Allow granting permissions and simulating input via USB debugging**
-
-Rebooting the device is necessary once this option is set.
