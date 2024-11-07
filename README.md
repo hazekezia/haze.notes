@@ -1,8 +1,8 @@
 ---
-icon: font-awesome
+icon: user-crown
 ---
 
-# 🙍‍♂️ About
+# About
 
 Welcome to my book sites. Still in progress.
 

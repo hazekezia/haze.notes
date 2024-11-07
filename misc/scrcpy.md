@@ -1,6 +1,6 @@
 ---
-description: pronounced "screen copy"
 icon: screencast
+description: pronounced "screen copy"
 ---
 
 # Scrcpy
@@ -16,6 +16,30 @@ scrcpy
 ```
 
 For docs, [here](https://github.com/Genymobile/scrcpy/tree/master/doc).
+
+***
+
+This script is using for auto connect, make sure your ADB is already connected to your PC using pair code.
+
+```bash
+adb pair ip:port pairing-code
+```
+
+Notes: This is modification code from `scrcpy-noconsole.vbs`
+
+```sh
+CreateObject("Wscript.Shell").Run "adb connect ip:port", 0, true
+
+strCommand = "cmd /c scrcpy.exe"
+
+For Each Arg In WScript.Arguments
+    strCommand = strCommand & " """ & replace(Arg, """", """""""""") & """"
+Next
+
+CreateObject("Wscript.Shell").Run strCommand, 0, false
+```
+
+IP and port sometimes changes if you reconnect wireless connection. Make sure to change this everytime it changes.
 
 ***
 

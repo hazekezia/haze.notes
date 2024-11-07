@@ -41,7 +41,6 @@ server {
         proxy_set_header X-Forwarded-Proto $scheme;
     }
 }
-
 ```
 
 Activate this using symlink to sites-enabled directory.

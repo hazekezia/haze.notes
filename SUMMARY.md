@@ -2,18 +2,22 @@
 
 ## Welcome
 
-* [🙍‍♂️ About](README.md)
+* [About](README.md)
 
 ## Python
 
 * [Create Environment](python/create-environment.md)
 * [MySQL: Automation](python/mysql-automation.md)
 
-## Linux Notes
+## Linux
 
-* [NGINX: Reverse Proxy](linux-notes/nginx-reverse-proxy.md)
-* [MySQL: Basic CRUD Command](linux-notes/mysql-basic-crud-command.md)
-* [Nohup: Running in the Background](linux-notes/nohup-running-in-the-background.md)
+* [Diagnostics & Systems](linux/diagnostics-and-systems/README.md)
+  * [Connect Linux using SSH](linux/diagnostics-and-systems/connect-linux-using-ssh.md)
+  * [Check CPU Information](linux/diagnostics-and-systems/check-cpu-information.md)
+  * [Check Port Used in Linux](linux/diagnostics-and-systems/check-port-used-in-linux.md)
+* [MySQL: Basic CRUD Command](linux/mysql-basic-crud-command.md)
+* [Nohup: Running in the Background](linux/nohup-running-in-the-background.md)
+* [NGINX: Reverse Proxy](linux/nginx-reverse-proxy.md)
 
 ## MISC
 
