@@ -4,11 +4,6 @@
 
 * [About](README.md)
 
-## Python
-
-* [Create Environment](python/create-environment.md)
-* [MySQL: Automation](python/mysql-automation.md)
-
 ## Linux
 
 * [Diagnostics & Systems](linux/diagnostics-and-systems/README.md)
@@ -20,7 +15,14 @@
 * [Nohup: Running in the Background](linux/nohup-running-in-the-background.md)
 * [NGINX: Reverse Proxy](linux/nginx-reverse-proxy.md)
 
-## MISC
+## Python
 
-* [ADB: Connect over TCP/IP](misc/adb-connect-over-tcp-ip.md)
-* [Scrcpy](misc/scrcpy.md)
+* [Create Environment](python/create-environment.md)
+* [MySQL: Automation](python/mysql-automation.md)
+
+## ANDROID
+
+* [ADB: Connect over TCP/IP](android/adb-connect-over-tcp-ip.md)
+* [Scrcpy](android/scrcpy.md)
+
+## MISC
