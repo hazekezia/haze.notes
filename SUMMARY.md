@@ -24,5 +24,6 @@
 
 * [ADB: Connect over TCP/IP](android/adb-connect-over-tcp-ip.md)
 * [Scrcpy](android/scrcpy.md)
+* [Run Ollama Models on Android](android/run-ollama-models-on-android.md)
 
 ## MISC
