@@ -7,11 +7,26 @@ icon: python
 Run this command to create .env
 
 ```
-python -m venv .env
+python -m venv venv
 ```
 
-To activate:
+### Activate:
+
+Windows:
 
 ```
-.env\Scripts\activate.bat
+venv\Scripts\activate.bat
 ```
+
+Git bash:
+
+```
+source venv/Scripts/activate
+```
+
+Linux:
+
+```
+source venv/bin/activate
+```
+
