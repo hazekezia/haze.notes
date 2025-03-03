@@ -17,7 +17,7 @@
 
 ## Python
 
-* [Create Environment](python/create-environment.md)
+* [Create Virtual Environment](python/create-virtual-environment.md)
 * [MySQL: Automation](python/mysql-automation.md)
 
 ## ANDROID

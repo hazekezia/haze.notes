@@ -2,9 +2,9 @@
 icon: python
 ---
 
-# Create Environment
+# Create Virtual Environment
 
-Run this command to create .env
+Run this command to create venv (virtual environment)
 
 ```
 python -m venv venv
