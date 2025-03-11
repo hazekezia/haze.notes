@@ -1,6 +1,6 @@
 ---
-icon: screencast
 description: pronounced "screen copy"
+icon: screencast
 ---
 
 # Scrcpy
@@ -53,3 +53,24 @@ On some devices, you may need to enable an option to allow simulating input. In 
 **Allow granting permissions and simulating input via USB debugging**
 
 Rebooting the device is necessary once this option is set.
+
+***
+
+**Useful daily commands**
+
+Running APKs on virtual display:
+
+{% code overflow="wrap" fullWidth="false" %}
+```
+scrcpy --new-display=1920x1080 --start-app=<package_apk_name>
+
+// Example running Genshin Impact on virtual display
+scrcpy --new-display=1920x1080 --start-app=com.miHoYo.GenshinImpact
+```
+{% endcode %}
+
+Running input only (no audio and video)
+
+```
+scrcpy --no-video --no-audio -M
+```
