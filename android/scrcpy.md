@@ -58,6 +58,13 @@ Rebooting the device is necessary once this option is set.
 
 **Useful daily commands**
 
+Create virtual display:
+
+```
+// Always on top and using H265
+scrcpy --new-display=2340x1080 --video-codec=h265 --always-on-top
+```
+
 Running APKs on virtual display:
 
 {% code overflow="wrap" fullWidth="false" %}
