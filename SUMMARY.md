@@ -27,3 +27,5 @@
 * [Run Ollama Models on Android](android/run-ollama-models-on-android.md)
 
 ## MISC
+
+* [Local Speedtest using iperf3](misc/local-speedtest-using-iperf3.md)
