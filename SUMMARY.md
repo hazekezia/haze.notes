@@ -28,4 +28,4 @@
 
 ## MISC
 
-* [Local Speedtest using iperf3](misc/local-speedtest-using-iperf3.md)
+* [iperf3: Local Router Speedtest](misc/iperf3-local-router-speedtest.md)
