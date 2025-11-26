@@ -14,6 +14,7 @@
 * [MySQL: Basic CRUD Command](linux/mysql-basic-crud-command.md)
 * [Nohup: Running in the Background](linux/nohup-running-in-the-background.md)
 * [NGINX: Reverse Proxy](linux/nginx-reverse-proxy.md)
+* [Install Cloudflare WARP on Fedora](linux/install-cloudflare-warp-on-fedora.md)
 
 ## Python
 
