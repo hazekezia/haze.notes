@@ -1,5 +1,6 @@
 ---
 description: for all who need it
+icon: windows
 ---
 
 # Script - Restart Ethernet Adapter
