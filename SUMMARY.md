@@ -16,6 +16,10 @@
 * [NGINX: Reverse Proxy](linux/nginx-reverse-proxy.md)
 * [Install Cloudflare WARP on Fedora](linux/install-cloudflare-warp-on-fedora.md)
 
+## Windows
+
+* [Script - Restart Ethernet Adapter](windows/script-restart-ethernet-adapter.md)
+
 ## Python
 
 * [Create Virtual Environment](python/create-virtual-environment.md)
