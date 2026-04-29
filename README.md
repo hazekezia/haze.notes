@@ -4,17 +4,15 @@ icon: user-crown
 
 # About
 
-Welcome to my book sites. Still in progress.
+Welcome to my notes site. This project is still a work in progress.
+
+
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-sitohang/) | [Github](https://github.com/hazekezia)
 
 
 
-
-
 **Disclaimer**\
-The content of this book is intended as a personal reference for my work—meant to document details that don’t need to be memorized.&#x20;
+This site is primarily a personal reference for my work—used to document technical details and concepts I don’t want to rely on memory for.
 
-It is not intended as a comprehensive guide for those entirely unfamiliar with the topics covered.
-
-tl;dr: this book is only for my educational cheatsheet purposes.&#x20;
+It’s not intended as a complete guide for beginners, but feel free to explore if you find it useful.
