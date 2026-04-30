@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Check CPU Information
 
 Here are some simple commands to check CPU specifications in Linux.

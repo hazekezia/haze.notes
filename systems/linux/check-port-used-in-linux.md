@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Check Port Used in Linux
 
 Linux provides several tools that allow you to quickly see which ports are in use and which applications are using those ports.

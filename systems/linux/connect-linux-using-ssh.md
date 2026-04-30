@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Connect Linux using SSH
 
 Just using this simple command.

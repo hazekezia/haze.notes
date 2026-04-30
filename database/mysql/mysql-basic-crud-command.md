@@ -85,4 +85,4 @@ Delete all data from the table (use with caution!)
 DELETE FROM users;
 ```
 
-Check this python code for [automation](../python/mysql-automation.md) using python
+Check this python code for [automation](../../programming/python/mysql-automation-using-python.md) using python

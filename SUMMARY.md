@@ -4,26 +4,34 @@
 
 * [About](README.md)
 
-## Linux
+## SYSTEMS
 
-* [Diagnostics & Systems](linux/diagnostics-and-systems/README.md)
-  * [Connect Linux using SSH](linux/diagnostics-and-systems/connect-linux-using-ssh.md)
-  * [Check CPU Information](linux/diagnostics-and-systems/check-cpu-information.md)
-  * [Check Port Used in Linux](linux/diagnostics-and-systems/check-port-used-in-linux.md)
-* [Ansible: Basic Setup](linux/ansible-basic-setup.md)
-* [MySQL: Basic CRUD Command](linux/mysql-basic-crud-command.md)
-* [Nohup: Running in the Background](linux/nohup-running-in-the-background.md)
-* [NGINX: Reverse Proxy](linux/nginx-reverse-proxy.md)
-* [Install Cloudflare WARP on Fedora](linux/install-cloudflare-warp-on-fedora.md)
+* [Linux](systems/linux/README.md)
+  * [Connect Linux using SSH](systems/linux/connect-linux-using-ssh.md)
+  * [Check CPU Information](systems/linux/check-cpu-information.md)
+  * [Check Port Used in Linux](systems/linux/check-port-used-in-linux.md)
+  * [Nohup: Running in the Background](systems/linux/nohup-running-in-the-background.md)
+* [Windows](systems/windows/README.md)
+  * [Script - Restart Ethernet Adapter](systems/windows/script-restart-ethernet-adapter.md)
 
-## Windows
+## Programming
 
-* [Script - Restart Ethernet Adapter](windows/script-restart-ethernet-adapter.md)
+* [Python](programming/python/README.md)
+  * [Create Virtual Environment](programming/python/create-virtual-environment.md)
+  * [MySQL: Automation using Python](programming/python/mysql-automation-using-python.md)
 
-## Python
+## Database
 
-* [Create Virtual Environment](python/create-virtual-environment.md)
-* [MySQL: Automation](python/mysql-automation.md)
+* [MySQL](database/mysql/README.md)
+  * [MySQL: Basic CRUD Command](database/mysql/mysql-basic-crud-command.md)
+
+## Apps and Configs
+
+* [DevOps](apps-and-configs/devops/README.md)
+  * [Ansible: Basic Setup](apps-and-configs/devops/ansible-basic-setup.md)
+* [Networking](apps-and-configs/networking/README.md)
+  * [Install Cloudflare WARP on Fedora](apps-and-configs/networking/install-cloudflare-warp-on-fedora.md)
+  * [NGINX: Reverse Proxy](apps-and-configs/networking/nginx-reverse-proxy.md)
 
 ## ANDROID
 
