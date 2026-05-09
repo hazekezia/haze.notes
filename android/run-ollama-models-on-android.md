@@ -89,3 +89,9 @@ For example, I will use [deepseek-r1 models](https://ollama.com/library/deepseek
 ```
 ./ollama run deepseek-r1:8b
 ```
+
+### Turn off ollama serve
+
+```
+sudo killall -s 9 ollama
+```

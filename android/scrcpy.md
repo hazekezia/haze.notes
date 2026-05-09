@@ -56,13 +56,25 @@ Rebooting the device is necessary once this option is set.
 
 ***
 
-**Useful daily commands**
+**Useful daily commands I'm using**
 
 Create virtual display:
 
 ```
 // Always on top and using H265
 scrcpy --new-display=2340x1080 --video-codec=h265 --always-on-top
+```
+
+Running using USB cable, virtual display 720p, custom bitrate, and screen off:
+
+```
+scrcpy -d --new-display=1280x720 --turn-screen-off --stay-awake --video-bit-rate=8M 
+```
+
+Running using TCP ([read this](adb-connect-over-tcp-ip.md)), virtual display 720p, low custom bitrate, and screen off:
+
+```
+scrcpy -e --new-display=1280x720 --turn-screen-off --stay-awake --video-bit-rate=1M 
 ```
 
 Running APKs on virtual display:
@@ -76,7 +88,7 @@ scrcpy --new-display=1920x1080 --start-app=com.miHoYo.GenshinImpact
 ```
 {% endcode %}
 
-Running input only (no audio and video)
+Running input only (no audio and video):
 
 ```
 scrcpy --no-video --no-audio -M
