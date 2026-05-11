@@ -7,7 +7,7 @@ icon: python
 Run this command to create venv (virtual environment)
 
 ```
-python -m venv venv
+python -m venv <env_name>
 ```
 
 ### Activate:
@@ -18,15 +18,15 @@ Windows:
 venv\Scripts\activate.bat
 ```
 
-Git bash:
-
-```
-source venv/Scripts/activate
-```
-
 Linux:
 
 ```
 source venv/bin/activate
+```
+
+Git bash:
+
+```
+source venv/Scripts/activate
 ```
 
