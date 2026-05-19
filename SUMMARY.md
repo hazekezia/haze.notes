@@ -29,6 +29,7 @@
 
 * [DevOps](apps-and-configs/devops/README.md)
   * [Ansible: Basic Setup](apps-and-configs/devops/ansible-basic-setup.md)
+  * [Proper Git Commit Naming](apps-and-configs/devops/proper-git-commit-naming.md)
 * [Networking](apps-and-configs/networking/README.md)
   * [Install Cloudflare WARP on Fedora](apps-and-configs/networking/install-cloudflare-warp-on-fedora.md)
   * [NGINX: Reverse Proxy](apps-and-configs/networking/nginx-reverse-proxy.md)
