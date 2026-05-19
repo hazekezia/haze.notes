@@ -27,7 +27,8 @@ feat: add login feature
 Used for new features.
 
 ```git-commit
-feat: add dark modefeat: add file upload feature
+feat: add dark mode
+feat: add file upload feature
 ```
 
 ***
@@ -37,7 +38,8 @@ feat: add dark modefeat: add file upload feature
 Used for bug fixes.
 
 ```git-commit
-fix: resolve login errorfix: prevent application crash
+fix: resolve login error
+fix: prevent application crash
 ```
 
 ***
