@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: hz.notes
+  structure:
+    - type: space
+      key: space-1
+      title: Haze Book
+      path: haze-book
+      default: true
+      content:
+        directory: ./haze-book
